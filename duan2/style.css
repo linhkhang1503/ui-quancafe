@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.header ul{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   background-color: #e2ed0e;
+   height: 50px;
+
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* margin: 20px 0px 2 thuoc tinh la tren duoi 20px, trai phai 0px */
+/* margin: 20px 0px 20px 0px lan luot la tren phai duoi trai*/
